@@ -1,0 +1,4 @@
+Added Component: Designator=L1(3.3uh)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=dji_3s_battery Member=Component L1 L1_3.3uh
+Added Room: Name=dji_3s_battery

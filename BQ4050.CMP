@@ -1,0 +1,14 @@
+Component   : DFN-8
+PCB Library : BQ4050.PcbLib
+Date        : 2020/2/13
+Time        : 20:49:08
+
+
+
+Dimension : 0.138 x 0.175 in
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          6        0       1        0
+--------------------------------------------------------------------
+ Total                       0          6        0       1        0

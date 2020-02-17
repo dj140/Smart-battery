@@ -1,0 +1,7 @@
+Added Component: Designator=Q8(LFPAK)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q10(LFPAK)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q8 1C530L_N_MOS
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q10 1C530L_N_MOS
+Added Room: Name=dji_3s_battery

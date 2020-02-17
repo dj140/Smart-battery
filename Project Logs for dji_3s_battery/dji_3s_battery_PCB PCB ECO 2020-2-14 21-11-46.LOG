@@ -1,0 +1,39 @@
+Added Component: Designator=C6(C603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Area"; Value = "5650"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.035 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0603C104M5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "07/31/2009 12:17:27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C23(C603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Area"; Value = "5650"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.035 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "C0603C104M5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "07/31/2009 12:17:27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_2 Pin=C6-1
+Added Pin To Net: NetName=C_GND Pin=C23-1
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=U2-16
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=R33-1
+Added Pin To Net: NetName=NetC23_2 Pin=U2-1
+Added Net: Name=NetC23_2
+Added Member To Class: ClassName=dji_3s_battery Member=Component C6 C0603C104M5RACTU
+Added Member To Class: ClassName=dji_3s_battery Member=Component C23 C0603C104M5RACTU
+Added Room: Name=dji_3s_battery

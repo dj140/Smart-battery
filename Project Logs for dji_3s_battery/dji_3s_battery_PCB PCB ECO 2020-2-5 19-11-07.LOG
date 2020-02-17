@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=Q8-5
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=GND Pin=SPK1-2
+Added Pin To Net: NetName=GND Pin=SPK2-2
+Added Pin To Net: NetName=GND Pin=SPK3-2
+Added Pin To Net: NetName=GND Pin=SPK4-2
+Added Room: Name=dji_3s_battery

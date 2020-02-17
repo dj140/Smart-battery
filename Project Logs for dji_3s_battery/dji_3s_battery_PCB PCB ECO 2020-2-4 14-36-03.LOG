@@ -1,0 +1,17 @@
+Added Component: Designator=TP3(TP_.040_SMT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "area"; Value = "10.000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.180 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\vette02\pmp_pcb\pcad_pdf's\Keystone-SMT-TH_Test point.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0.100 x 0.100 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "11/01/2006 14:05:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5001"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Member To Class: ClassName=dji_3s_battery Member=Component TP3 TP-5001-BLACK
+Added Room: Name=dji_3s_battery

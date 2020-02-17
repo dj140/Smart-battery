@@ -1,0 +1,86 @@
+Added Component: Designator=D12(LED0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Area"; Value = "22000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.041 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\vette02\pmp_pcb\pcad_pdf's\SML-LXR1206USBC-TR[1].pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SML-LX23GC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "08/01/2007 15:25:38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SML-LX23GC"; VariantName = "[No Variations]"
+Added Component: Designator=D13(LED0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Area"; Value = "22000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.041 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\vette02\pmp_pcb\pcad_pdf's\SML-LXR1206USBC-TR[1].pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SML-LX23GC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "08/01/2007 15:25:38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SML-LX23GC"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=4P New Net Name=NetC1_2
+Added Pin To Net: NetName=C_GND Pin=J3-A1B12
+Added Pin To Net: NetName=C_GND Pin=J3-B1A12
+Added Pin To Net: NetName=C_GND Pin=Q10-1
+Added Pin To Net: NetName=C_GND Pin=Q10-2
+Added Pin To Net: NetName=C_GND Pin=Q10-3
+Added Pin To Net: NetName=C_GND Pin=U2-11
+Added Pin To Net: NetName=C_GND Pin=U2-17
+Added Net: Name=C_GND
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=U2-16
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=L1-1
+Added Pin To Net: NetName=NetC6_2 Pin=Q8-1
+Added Pin To Net: NetName=NetC6_2 Pin=Q8-2
+Added Pin To Net: NetName=NetC6_2 Pin=Q8-3
+Added Pin To Net: NetName=NetC6_2 Pin=Q10-5
+Added Pin To Net: NetName=NetC6_2 Pin=U2-14
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_1 Pin=U2-2
+Added Pin To Net: NetName=NetC7_1 Pin=U2-6
+Added Net: Name=NetC7_1
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC19_1 Pin=U2-10
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC19_2 Pin=U2-9
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC20_1 Pin=U2-12
+Added Net: Name=NetC20_1
+Added Pin To Net: NetName=NetC23_1 Pin=U2-1
+Added Net: Name=NetC23_1
+Added Net: Name=NetD10_1
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_1 Pin=U2-3
+Added Net: Name=NetD12_1
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_1 Pin=U2-5
+Added Net: Name=NetD13_1
+Added Pin To Net: NetName=NetJ3_A4B9 Pin=J3-A4B9
+Added Pin To Net: NetName=NetJ3_A4B9 Pin=J3-B4A9
+Added Net: Name=NetJ3_A4B9
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetQ8_4 Pin=Q8-4
+Added Pin To Net: NetName=NetQ8_4 Pin=U2-15
+Added Net: Name=NetQ8_4
+Added Pin To Net: NetName=NetQ10_4 Pin=Q10-4
+Added Pin To Net: NetName=NetQ10_4 Pin=U2-13
+Added Net: Name=NetQ10_4
+Added Pin To Net: NetName=NetR26_1 Pin=U2-7
+Added Net: Name=NetR26_1
+Added Net: Name=NetR29_1
+Added Pin To Net: NetName=NetR34_1 Pin=U2-8
+Added Net: Name=NetR34_1
+Added Member To Class: ClassName=dji_3s_battery Member=Component D12 D_LED_SML-LXR1206USBC-TR
+Added Member To Class: ClassName=dji_3s_battery Member=Component D13 D_LED_SML-LXR1206USBC-TR
+Added Room: Name=dji_3s_battery

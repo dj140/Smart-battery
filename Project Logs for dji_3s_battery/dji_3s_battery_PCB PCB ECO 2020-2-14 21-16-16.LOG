@@ -1,0 +1,74 @@
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Area"; Value = "56,000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "2512"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW2512300RJNEG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolVersion"; Value = "05/06/2011 14:04:06"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.002"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Area"; Value = "56,000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "2512"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW2512300RJNEG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolVersion"; Value = "05/06/2011 14:04:06"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.002"; VariantName = "[No Variations]"
+Added Component: Designator=D10(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Area"; Value = "14105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.043 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\vette02\pmp_pcb\pcad_pdf's\BAT54HT1-D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOD323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BAT54HT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "02/28/2007 14:26:03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BAT54HT1G"; VariantName = "[No Variations]"
+Added Component: Designator=R24(R2512)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Area"; Value = "56,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CRCW2512300RJNEG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "05/06/2011 14:04:06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01"; VariantName = "[No Variations]"
+Added Component: Designator=R29(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Area"; Value = "9100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CRCW0603100RJNEAHP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "05/06/2011 13:51:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC9_2 Pin=C19-1
+Added Pin To Net: NetName=NetC6_2 Pin=D10-1
+Added Pin To Net: NetName=NetC20_2 Pin=D10-2
+Added Pin To Net: NetName=NetC19_2 Pin=L1-2
+Added Pin To Net: NetName=NetC19_2 Pin=R24-1
+Added Pin To Net: NetName=NetC9_2 Pin=R24-2
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetC9_2 Pin=U2-9
+Change Net Name : Old Net Name=NetD10_1 New Net Name=NetQ11_4
+Added Pin To Net: NetName=NetQ11_3 Pin=R18-2
+Added Net: Name=NetQ11_3
+Added Member To Class: ClassName=dji_3s_battery Member=Component D10 D-BAT54HT1
+Added Member To Class: ClassName=dji_3s_battery Member=Component R24 CRCW2512300RJNEG
+Added Member To Class: ClassName=dji_3s_battery Member=Component R29 CRCW0603100RJNEAHP

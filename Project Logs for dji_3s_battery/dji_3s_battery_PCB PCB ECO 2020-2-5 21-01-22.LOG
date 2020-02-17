@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=S2-B'
+Removed Pin From Net: NetName=GND Pin=S2-B
+Removed Pin From Net: NetName=NetC21_2 Pin=S3-A'
+Removed Pin From Net: NetName=NetC21_2 Pin=S3-A
+Removed Pin From Net: NetName=GND Pin=S3-B'
+Removed Pin From Net: NetName=GND Pin=S3-B
+Change Component Footprint: Designator=S2 Old Footprint=SW_EVQPL New Footprint=SW_SMD
+Change Component Footprint: Designator=S3 Old Footprint=SW_EVQPL New Footprint=SW_SMD
+Change Component Comment : Designator=S2 Old Comment=SW_EVQ-PLHA15 New Comment=SW_SMD
+Change Component Comment : Designator=S3 Old Comment=SW_EVQ-PLHA15 New Comment=SW_SMD
+Change Component Designator: OldDesignator=LED1 NewDesignator=D7
+Change Component Designator: OldDesignator=LED2 NewDesignator=D8
+Change Component Designator: OldDesignator=LED3 NewDesignator=D5
+Change Component Designator: OldDesignator=LED4 NewDesignator=D6
+Change Component Designator: OldDesignator=LED5 NewDesignator=D9
+Change component parameters. Clean all parameters for all variants
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=S2-3
+Added Pin To Net: NetName=GND Pin=S2-4
+Added Pin To Net: NetName=NetC21_2 Pin=S3-1
+Added Pin To Net: NetName=NetC21_2 Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S3-3
+Added Pin To Net: NetName=GND Pin=S3-4
+Added Pin To Net: NetName=NetS2_1 Pin=S2-1
+Added Pin To Net: NetName=NetS2_1 Pin=S2-2
+Added Pin To Net: NetName=NetS2_1 Pin=U1-17
+Added Net: Name=NetS2_1
+Added Room: Name=dji_3s_battery

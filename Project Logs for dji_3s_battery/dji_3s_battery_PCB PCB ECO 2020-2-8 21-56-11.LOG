@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=dji_3s_battery Member=C12
+Removed Member From Class: ClassName=dji_3s_battery Member=RT1
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-24
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=U1-32
+Added Net: Name=NetD1_1
+Added Room: Name=dji_3s_battery

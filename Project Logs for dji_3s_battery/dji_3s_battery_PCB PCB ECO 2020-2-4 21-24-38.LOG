@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=Q£¿ NewDesignator=Q2
+Change Component Designator: OldDesignator=Q£¿ NewDesignator=Q3
+Change Component Designator: OldDesignator=Q£¿ NewDesignator=Q4
+Change Component Designator: OldDesignator=Q£¿ NewDesignator=Q5
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q3 DMN601K
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q4 DMN601K
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q5 DMN601K
+Added Room: Name=dji_3s_battery

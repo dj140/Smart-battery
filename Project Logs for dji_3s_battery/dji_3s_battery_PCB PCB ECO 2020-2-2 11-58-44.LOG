@@ -1,0 +1,232 @@
+Added Component: Designator=R33(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EIA_Code"; Value = "E24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2015-04-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CRCW04025R10JNED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_W"; Value = "0.063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2008-06-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Res_ohm"; Value = "5.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-5.1JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "71-CRCW0402J-5.1-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "1571699"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "2009-05-29"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempCo"; Value = "200 ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance_%"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U/M"; Value = "EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value1"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "0.063W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value_Code"; Value = "5R10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueDisplayed"; Value = "5.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC_V"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=RT2(THERMISTER-103AT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Area"; Value = "25,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.335 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\vette02\pmp_pcb\pcad_pdf's\AT_Thermistor.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Semitec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0.095 X 0.150 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "103AT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "07/31/2009 12:17:31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=RT3(THERMISTER-103AT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Area"; Value = "25,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.335 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\vette02\pmp_pcb\pcad_pdf's\AT_Thermistor.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Semitec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0.095 X 0.150 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "103AT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "07/31/2009 12:17:31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=RT4(THERMISTER-103AT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Area"; Value = "25,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.335 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\vette02\pmp_pcb\pcad_pdf's\AT_Thermistor.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Semitec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0.095 X 0.150 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "103AT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "07/31/2009 12:17:31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=RT5(THERMISTER-103AT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Area"; Value = "25,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.335 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\vette02\pmp_pcb\pcad_pdf's\AT_Thermistor.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Semitec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0.095 X 0.150 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "103AT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "07/31/2009 12:17:31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SW_EVQPL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "area"; Value = "57600"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.125 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\vette02\pmp_pcb\pcad_pdf's\ATK0000CE3-1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0.200 x 0.200 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "EVQ-PLHA15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "11/01/2006 14:05:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "EVQ-PLHA15"; VariantName = "[No Variations]"
+Added Component: Designator=S2(SW_EVQPL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "area"; Value = "57600"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.125 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\vette02\pmp_pcb\pcad_pdf's\ATK0000CE3-1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0.200 x 0.200 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "EVQ-PLHA15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "11/01/2006 14:05:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "EVQ-PLHA15"; VariantName = "[No Variations]"
+Added Component: Designator=S3(SW_EVQPL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "area"; Value = "57600"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.125 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\vette02\pmp_pcb\pcad_pdf's\ATK0000CE3-1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0.200 x 0.200 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "EVQ-PLHA15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "11/01/2006 14:05:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "EVQ-PLHA15"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TP_.040_SMT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "area"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "11/01/2006 14:05:31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "None"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TP_.040_SMT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "area"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "11/01/2006 14:05:31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "None"; VariantName = "[No Variations]"
+Added Component: Designator=U1(QFP-32P_(RSM))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Area"; Value = "51072"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.04mil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\vette02\pmp_pcb\pcad_pdf's\bq40z55_DS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "QFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BQ40Z50RSM-R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "06/22/2012 10:16:53"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BQ40Z50RSM-R1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC7_2 Pin=R33-1
+Added Pin To Net: NetName=NetR33_2 Pin=R33-2
+Added Pin To Net: NetName=GND Pin=RT2-1
+Added Pin To Net: NetName=NetRT2_2 Pin=RT2-2
+Added Pin To Net: NetName=GND Pin=RT3-1
+Added Pin To Net: NetName=NetRT3_2 Pin=RT3-2
+Added Pin To Net: NetName=GND Pin=RT4-1
+Added Pin To Net: NetName=NetRT4_2 Pin=RT4-2
+Added Pin To Net: NetName=GND Pin=RT5-1
+Added Pin To Net: NetName=NetRT5_2 Pin=RT5-2
+Added Pin To Net: NetName=NetR32_1 Pin=S1-A'
+Added Pin To Net: NetName=NetR32_1 Pin=S1-A
+Added Pin To Net: NetName=PACK+ Pin=S1-B'
+Added Pin To Net: NetName=PACK+ Pin=S1-B
+Added Pin To Net: NetName=NetJ6_1 Pin=S2-A'
+Added Pin To Net: NetName=NetJ6_1 Pin=S2-A
+Added Pin To Net: NetName=GND Pin=S2-B'
+Added Pin To Net: NetName=GND Pin=S2-B
+Added Pin To Net: NetName=NetC21_2 Pin=S3-A'
+Added Pin To Net: NetName=NetC21_2 Pin=S3-A
+Added Pin To Net: NetName=GND Pin=S3-B'
+Added Pin To Net: NetName=GND Pin=S3-B
+Added Pin To Net: NetName=NetC18_1 Pin=TP2-1
+Added Pin To Net: NetName=BAT Pin=TP4-1
+Added Pin To Net: NetName=NetC13_2 Pin=U1-1
+Added Pin To Net: NetName=NetC14_2 Pin=U1-2
+Added Pin To Net: NetName=NetC14_1 Pin=U1-3
+Added Pin To Net: NetName=NetC15_1 Pin=U1-4
+Added Pin To Net: NetName=NetC16_1 Pin=U1-5
+Added Pin To Net: NetName=NetC18_1 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=NetC18_2 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=NetRT2_2 Pin=U1-10
+Added Pin To Net: NetName=NetRT3_2 Pin=U1-11
+Added Pin To Net: NetName=NetRT4_2 Pin=U1-12
+Added Pin To Net: NetName=NetRT5_2 Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=NetTP12_1 Pin=U1-15
+Added Pin To Net: NetName=NetC21_2 Pin=U1-16
+Added Pin To Net: NetName=NetJ6_1 Pin=U1-17
+Added Pin To Net: NetName=NetR26_1 Pin=U1-18
+Added Pin To Net: NetName=NetR24_1 Pin=U1-19
+Added Pin To Net: NetName=NetD7_2 Pin=U1-20
+Added Pin To Net: NetName=NetD5_2 Pin=U1-21
+Added Pin To Net: NetName=NetD5_1 Pin=U1-22
+Added Pin To Net: NetName=NetC12_2 Pin=U1-23
+Added Pin To Net: NetName=BAT Pin=U1-24
+Added Pin To Net: NetName=NetR17_2 Pin=U1-25
+Added Pin To Net: NetName=NetR9_1 Pin=U1-26
+Added Pin To Net: NetName=NetR12_1 Pin=U1-27
+Added Pin To Net: NetName=NetR10_1 Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=NetR8_1 Pin=U1-30
+Added Pin To Net: NetName=NetR7_1 Pin=U1-31
+Added Pin To Net: NetName=BAT Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Class: Name=dji_3s_battery
+Added Room: Name=dji_3s_battery

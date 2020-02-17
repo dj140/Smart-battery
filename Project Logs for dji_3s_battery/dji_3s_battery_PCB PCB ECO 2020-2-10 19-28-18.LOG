@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=U1 Old Footprint=QFP-32P New Footprint=QFP-32P_(RSM)
+Change Component Designator: OldDesignator=BPT NewDesignator=TP12
+Change Component Designator: OldDesignator=CHG NewDesignator=TP5
+Change Component Designator: OldDesignator=DSG NewDesignator=TP6
+Change Component Designator: OldDesignator=FUSE NewDesignator=TP7
+Change Component Designator: OldDesignator=SMBC NewDesignator=TP9
+Change Component Designator: OldDesignator=SMBD NewDesignator=TP10
+Change Component Designator: OldDesignator=SRN NewDesignator=TP2
+Change Component Designator: OldDesignator=SRP NewDesignator=TP1
+Added Room: Name=dji_3s_battery

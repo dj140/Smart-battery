@@ -1,0 +1,49 @@
+Added Component: Designator=U1(QFP-32P_(RSM))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Area"; Value = "51072"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.04mil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "\\vette02\pmp_pcb\pcad_pdf's\bq40z55_DS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "QFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BQ40Z50RSM-R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "06/22/2012 10:16:53"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BQ40Z50RSM-R1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC13_2 Pin=U1-1
+Added Pin To Net: NetName=NetC14_2 Pin=U1-2
+Added Pin To Net: NetName=NetC15_2 Pin=U1-3
+Added Pin To Net: NetName=NetC16_2 Pin=U1-4
+Added Pin To Net: NetName=NetC17_2 Pin=U1-5
+Added Pin To Net: NetName=NetC18_1 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=NetC18_2 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=NetRT2_2 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=NetTP12_1 Pin=U1-15
+Added Pin To Net: NetName=NetC21_2 Pin=U1-16
+Added Pin To Net: NetName=NetS2_1 Pin=U1-17
+Added Pin To Net: NetName=NetD3_2 Pin=U1-18
+Added Pin To Net: NetName=NetD2_2 Pin=U1-19
+Added Pin To Net: NetName=NetD7_2 Pin=U1-20
+Added Pin To Net: NetName=NetD5_2 Pin=U1-21
+Added Pin To Net: NetName=NetD5_1 Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-24
+Added Pin To Net: NetName=NetR17_2 Pin=U1-25
+Added Pin To Net: NetName=NetR9_1 Pin=U1-26
+Added Pin To Net: NetName=NetR12_1 Pin=U1-27
+Added Pin To Net: NetName=NetR10_1 Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=NetR8_1 Pin=U1-30
+Added Pin To Net: NetName=NetR7_1 Pin=U1-31
+Added Pin To Net: NetName=NetD1_1 Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Member To Class: ClassName=dji_3s_battery Member=Component U1 BQ40Z55RSM
+Added Room: Name=dji_3s_battery

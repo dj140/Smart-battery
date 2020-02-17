@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=Q6 Old Footprint=1C530L_N_MOS New Footprint=LFPAK
+Change Component Footprint: Designator=Q7 Old Footprint=1C530L_N_MOS New Footprint=LFPAK
+Change Component Footprint: Designator=Q1 Old Footprint=SED30P30M_PMOS New Footprint=DFN-8
+Change Component Comment : Designator=Q1 Old Comment=SED30P30M_PMOS New Comment=AON7401
+Added Room: Name=dji_3s_battery

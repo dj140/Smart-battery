@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=4P Pin=Q2-1
+Removed Pin From Net: NetName=4P Pin=Q2-2
+Removed Pin From Net: NetName=4P Pin=Q2-3
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q2-5
+Removed Pin From Net: NetName=PACK+ Pin=Q3-1
+Removed Pin From Net: NetName=PACK+ Pin=Q3-2
+Removed Pin From Net: NetName=PACK+ Pin=Q3-3
+Removed Pin From Net: NetName=NetQ1_2 Pin=Q3-5
+Removed Pin From Net: NetName=PACK+ Pin=Q4-2
+Removed Pin From Net: NetName=CHGND Pin=R4-1
+Removed Member From Class: ClassName=dji_3s_battery Member=Q2
+Removed Member From Class: ClassName=dji_3s_battery Member=Q3
+Removed Member From Class: ClassName=dji_3s_battery Member=Q4
+Removed Member From Class: ClassName=dji_3s_battery Member=R4
+Added Component: Designator=Q6(1C530L_N_MOS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q7(1C530L_N_MOS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q£¿(SOT-23 - duplicate)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q£¿(SOT-23 - duplicate)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q£¿(SOT-23 - duplicate)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q£¿(SOT-23 - duplicate)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PACK+ Pin=Q6-1
+Added Pin To Net: NetName=PACK+ Pin=Q6-2
+Added Pin To Net: NetName=PACK+ Pin=Q6-3
+Added Pin To Net: NetName=NetQ1_2 Pin=Q6-5
+Added Pin To Net: NetName=4P Pin=Q7-1
+Added Pin To Net: NetName=4P Pin=Q7-2
+Added Pin To Net: NetName=4P Pin=Q7-3
+Added Pin To Net: NetName=NetQ1_2 Pin=Q7-5
+Added Pin To Net: NetName=NetQ6_4 Pin=Q6-4
+Added Pin To Net: NetName=NetQ6_4 Pin=R3-1
+Added Pin To Net: NetName=NetQ6_4 Pin=R10-2
+Added Net: Name=NetQ6_4
+Added Pin To Net: NetName=NetQ7_4 Pin=Q7-4
+Added Pin To Net: NetName=NetQ7_4 Pin=R2-1
+Added Pin To Net: NetName=NetQ7_4 Pin=R7-2
+Added Net: Name=NetQ7_4
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q6 1C530L_N_MOS
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q7 1C530L_N_MOS
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q£¿ DMN601K
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q£¿ DMN601K
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q£¿ DMN601K
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q£¿ DMN601K
+Added Room: Name=dji_3s_battery

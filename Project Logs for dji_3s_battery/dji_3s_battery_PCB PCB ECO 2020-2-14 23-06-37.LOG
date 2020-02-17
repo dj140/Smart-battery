@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=C_GND Pin=R18-1
+Removed Member From Class: ClassName=dji_3s_battery Member=R18
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Area"; Value = "9100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW0603100RJNEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolVersion"; Value = "05/06/2011 13:51:33"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "500k"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Area"; Value = "9100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CRCW0603100RJNEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolVersion"; Value = "05/06/2011 13:51:33"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SMA(DO-214AC))
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetQ11_4 Pin=C3-2
+Added Pin To Net: NetName=NetQ11_4 Pin=C4-2
+Added Pin To Net: NetName=PACK+ Pin=C9-2
+Added Pin To Net: NetName=PACK+ Pin=C11-2
+Added Pin To Net: NetName=PACK+ Pin=C12-2
+Added Pin To Net: NetName=PACK+ Pin=C19-1
+Added Pin To Net: NetName=NetJ3_A4B9 Pin=D?-1
+Added Pin To Net: NetName=NetQ11_4 Pin=D?-2
+Added Pin To Net: NetName=NetQ11_4 Pin=Q8-5
+Added Pin To Net: NetName=PACK+ Pin=R24-2
+Added Pin To Net: NetName=PACK+ Pin=R29-2
+Added Pin To Net: NetName=PACK+ Pin=U2-9
+Change Net Name : Old Net Name=NetJ3_A4B9 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetQ11_4 New Net Name=NetC3_2
+Added Member To Class: ClassName=dji_3s_battery Member=Component D? SS54
+Added Room: Name=dji_3s_battery

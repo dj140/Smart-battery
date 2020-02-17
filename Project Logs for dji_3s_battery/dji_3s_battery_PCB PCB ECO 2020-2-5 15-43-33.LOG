@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetQ1_5 Pin=Q1-5
+Removed Pin From Net: NetName=NetRT2_2 Pin=U1-11
+Removed Pin From Net: NetName=NetRT2_2 Pin=U1-12
+Removed Pin From Net: NetName=NetRT2_2 Pin=U1-13
+Change Component Footprint: Designator=Q1 Old Footprint=1C530L_N_MOS New Footprint=SED30P30M_PMOS
+Change Component Comment : Designator=Q1 Old Comment=1C530L_N_MOS New Comment=SED30P30M_PMOS
+Added Component: Designator=Q9(2N7002K)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R16(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Area"; Value = "9100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CRCW060310M0JNEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "05/06/2011 13:51:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_5 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_5 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_5 Pin=Q1-3
+Added Pin To Net: NetName=PACK+ Pin=Q9-2
+Added Pin To Net: NetName=NetQ6_4 Pin=Q9-3
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Change Net Name : Old Net Name=NetQ1_5 New Net Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_4 Pin=R5-1
+Added Pin To Net: NetName=NetQ1_4 Pin=R8-2
+Added Net: Name=NetQ1_4
+Added Pin To Net: NetName=NetQ1_5 Pin=Q1-5
+Added Pin To Net: NetName=NetQ1_5 Pin=Q1-6
+Added Pin To Net: NetName=NetQ1_5 Pin=Q1-7
+Added Pin To Net: NetName=NetQ1_5 Pin=Q1-8
+Added Pin To Net: NetName=NetQ1_5 Pin=Q1-9
+Added Pin To Net: NetName=NetQ1_5 Pin=R1-2
+Added Net: Name=NetQ1_5
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R16-2
+Added Net: Name=NetQ9_1
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q9 2N7002K
+Added Member To Class: ClassName=dji_3s_battery Member=Component R16 CRCW060310M0JNEA

@@ -1,0 +1,58 @@
+Protel Design System Design Rule Check
+PCB File : D:\For sell\四轴无人机\dji 3s battery\dji_3s_battery_PCB.PcbDoc
+Date     : 2020/2/17
+Time     : 16:43:09
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+   Violation between Clearance Constraint: (Collision < 4mil) Between Track (607.95mil,313.618mil)(710mil,415.668mil) on Bottom Layer And Via (684.126mil,374.04mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Track (607.95mil,313.618mil)(710mil,415.668mil) on Bottom Layer And Via (651.842mil,341.756mil) from Top Layer to Bottom Layer 
+Rule Violations :2
+
+Processing Rule : Clearance Constraint (Gap=5.5mil) ((InComponent('U1') AND HasFootprint('QFP-32P_(RSM)'))),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Track (607.95mil,313.618mil)(710mil,415.668mil) on Bottom Layer And Via (684.126mil,374.04mil) from Top Layer to Bottom Layer Location : [X = 1679.773mil][Y = 1378.393mil]
+   Violation between Short-Circuit Constraint: Between Track (607.95mil,313.618mil)(710mil,415.668mil) on Bottom Layer And Via (651.842mil,341.756mil) from Top Layer to Bottom Layer Location : [X = 1647.489mil][Y = 1346.109mil]
+Rule Violations :2
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.3mil < 1mil) Between Via (477mil,326mil) from Top Layer to Bottom Layer And Pad C23-1(504.3mil,318.2mil) on Top Layer [Top Solder] Mask Sliver [0.3mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.44mil < 1mil) Between Via (734mil,475mil) from Top Layer to Bottom Layer And Pad C3-2(702mil,455mil) on Bottom Layer [Bottom Solder] Mask Sliver [0.44mil]
+Rule Violations :2
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Via (651.842mil,341.756mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (651.842mil,406.324mil) from Top Layer to Bottom Layer 
+Rule Violations :2
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 8
+Time Elapsed        : 00:00:02

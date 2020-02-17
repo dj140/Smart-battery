@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetD4_2 Pin=R29-1
+Removed Member From Class: ClassName=dji_3s_battery Member=R29
+Added Pin To Net: NetName=NetD4_2 Pin=J3-1
+Added Pin To Net: NetName=NetD4_2 Pin=SPK3-1
+Added Room: Name=dji_3s_battery
