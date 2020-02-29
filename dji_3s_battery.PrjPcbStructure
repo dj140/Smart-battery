@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=dji_3s_battery.SchDoc
+Record=TopLevelDocument|FileName=Smart_Battery_main.SchDoc
+Record=SheetSymbol|SourceDocument=Smart_Battery_main.SchDoc|Designator=Battery Gauge|SchDesignator=Battery Gauge|FileName=BQ40Z50.SchDoc|SymbolType=Normal|RawFileName=BQ40Z50.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Smart_Battery_main.SchDoc|Designator=Chargering|SchDesignator=Chargering|FileName=BQ25703A.SchDoc|SymbolType=Normal|RawFileName=BQ25703A.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Smart_Battery_main.SchDoc|Designator=Control|SchDesignator=Control|FileName=STM32G071.SchDoc|SymbolType=Normal|RawFileName=STM32G071.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

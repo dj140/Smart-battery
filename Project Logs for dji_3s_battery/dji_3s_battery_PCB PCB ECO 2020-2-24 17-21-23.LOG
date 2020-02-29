@@ -1,0 +1,4 @@
+Added Component: Designator=J?(USB_TypeA)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=dji_3s_battery Member=Component J? USB_TypeA
+Added Room: Name=dji_3s_battery

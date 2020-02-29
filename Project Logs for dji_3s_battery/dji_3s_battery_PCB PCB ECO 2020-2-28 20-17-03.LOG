@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=STM32G071 Member=C30
+Removed Member From Class: ClassName=STM32G071 Member=C31
+Removed Member From Class: ClassName=STM32G071 Member=R44
+Removed Member From Class: ClassName=BQ40Z50 Member=TP11
+Added Member To Class: ClassName=BQ25703A Member=Component C31 C0603C104M5RACTU
+Added Member To Class: ClassName=STM32G071 Member=Component C32 C0603C104M5RACTU
+Added Member To Class: ClassName=STM32G071 Member=Component C40 C0603C104M5RACTU
+Added Member To Class: ClassName=STM32G071 Member=Component R58 CRCW0603100RJNEAHP

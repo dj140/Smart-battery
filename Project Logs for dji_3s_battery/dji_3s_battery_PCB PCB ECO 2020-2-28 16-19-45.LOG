@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=PACK+ Pin=C21-1
+Removed Pin From Net: NetName=PACK+ Pin=C25-2
+Removed Pin From Net: NetName=PACK+ Pin=R33-1
+Removed Pin From Net: NetName=PACK+ Pin=R34-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R25-2
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=C25-2
+Added Pin To Net: NetName=NetC21_1 Pin=R33-1
+Added Pin To Net: NetName=NetC21_1 Pin=R34-2
+Added Net: Name=NetC21_1
+Change Class Name : Old Net Name=Battery Gauge New Net Name=BQ40Z50
+Change Class Name : Old Net Name=Chargering New Net Name=BQ25703A
+Change Class Name : Old Net Name=Control New Net Name=STM32G071
+Change Room Name: Old Name=Chargering New Name=STM32G071
+Change Room Scope: Old Scope=InComponentClass('Chargering') New Scope=InComponentClass('STM32G071')
+Added Room: Name=BQ40Z50
+Added Room: Name=BQ25703A

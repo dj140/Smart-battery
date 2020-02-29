@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Added Component: Designator=Q11(LFPAK)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q12(LFPAK)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q13(DFN-8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q14(SOT-23 - duplicate)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q15(SOT-23 - duplicate)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q16(SOT-23 - duplicate)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q17(SOT-23 - duplicate)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q11 1C530L_N_MOS
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q12 1C530L_N_MOS
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q13 AON7401
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q14 DMN601K
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q15 DMN601K
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q16 DMN601K
+Added Member To Class: ClassName=dji_3s_battery Member=Component Q17 DMN601K
+Added Member To Class: ClassName=dji_3s_battery Member=Component U2 STM32G071CBT6
+Added Member To Class: ClassName=dji_3s_battery Member=Component U4 5333B
+Added Room: Name=dji_3s_battery

@@ -1,0 +1,130 @@
+Removed Pin From Net: NetName=NetC23_2 Pin=C23-2
+Removed Pin From Net: NetName=NetC23_2 Pin=U2-28
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "area"; Value = "*"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeight"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolVersion"; Value = "11/01/2006 14:05:31"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "area"; Value = "*"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeight"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolVersion"; Value = "11/01/2006 14:05:31"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "area"; Value = "*"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeight"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolVersion"; Value = "11/01/2006 14:05:31"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "area"; Value = "*"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeight"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolVersion"; Value = "11/01/2006 14:05:31"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "area"; Value = "*"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeight"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolVersion"; Value = "07/13/2010 09:50:06"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Alternate Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Alternate PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Altium Migration"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "area"; Value = "*"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeight"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "AEO Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolVersion"; Value = "11/01/2006 14:05:31"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "None"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC23_2 Pin=C10-2
+Added Pin To Net: NetName=NetC23_2 Pin=C11-2
+Added Pin To Net: NetName=NetC23_2 Pin=C12-2
+Added Pin To Net: NetName=NetC23_2 Pin=C13-1
+Added Pin To Net: NetName=NetC23_2 Pin=C14-1
+Added Pin To Net: NetName=NetC23_2 Pin=C15-1
+Added Pin To Net: NetName=NetC23_2 Pin=C18-2
+Added Pin To Net: NetName=NetC23_2 Pin=C19-2
+Added Pin To Net: NetName=NetC23_2 Pin=C20-2
+Added Pin To Net: NetName=NetC23_2 Pin=C22-2
+Added Pin To Net: NetName=NetC23_2 Pin=C23-1
+Added Pin To Net: NetName=RENG Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=C25-1
+Added Pin To Net: NetName=NetC23_2 Pin=C26-1
+Added Pin To Net: NetName=NetC23_2 Pin=C27-1
+Added Pin To Net: NetName=NetC23_2 Pin=C28-1
+Added Pin To Net: NetName=NetC23_2 Pin=C29-2
+Added Pin To Net: NetName=NetC23_2 Pin=C30-2
+Added Pin To Net: NetName=NetC23_2 Pin=C31-2
+Added Pin To Net: NetName=NetC23_2 Pin=C32-2
+Added Pin To Net: NetName=NetC23_2 Pin=C33-2
+Added Pin To Net: NetName=NetC23_2 Pin=C34-2
+Added Pin To Net: NetName=NetC23_2 Pin=C35-2
+Added Pin To Net: NetName=NetC23_2 Pin=C36-2
+Added Pin To Net: NetName=NetC23_2 Pin=C37-2
+Added Pin To Net: NetName=NetC23_2 Pin=C38-2
+Added Pin To Net: NetName=NetC23_2 Pin=C39-2
+Added Pin To Net: NetName=NetC23_2 Pin=C40-2
+Added Pin To Net: NetName=NetC23_2 Pin=C41-2
+Added Pin To Net: NetName=NetC23_2 Pin=J4-1
+Added Pin To Net: NetName=NetC23_2 Pin=J4-2
+Added Pin To Net: NetName=NetC23_2 Pin=J4-3
+Added Pin To Net: NetName=NetC23_2 Pin=J4-4
+Added Pin To Net: NetName=NetC23_2 Pin=J4-A1B12
+Added Pin To Net: NetName=NetC23_2 Pin=J4-B1A12
+Added Pin To Net: NetName=NetC23_2 Pin=Q11-1
+Added Pin To Net: NetName=NetC23_2 Pin=Q11-2
+Added Pin To Net: NetName=NetC23_2 Pin=Q11-3
+Added Pin To Net: NetName=NetC23_2 Pin=Q12-1
+Added Pin To Net: NetName=NetC23_2 Pin=Q12-2
+Added Pin To Net: NetName=NetC23_2 Pin=Q12-3
+Added Pin To Net: NetName=NetC23_2 Pin=R36-2
+Added Pin To Net: NetName=NetC23_2 Pin=R40-2
+Added Pin To Net: NetName=NetC23_2 Pin=R42-2
+Added Pin To Net: NetName=NetC23_2 Pin=R43-2
+Added Pin To Net: NetName=NetC23_2 Pin=R51-2
+Added Pin To Net: NetName=NetC23_2 Pin=R52-2
+Added Pin To Net: NetName=NetC23_2 Pin=R53-2
+Added Pin To Net: NetName=NetC23_2 Pin=R54-2
+Added Pin To Net: NetName=NetC23_2 Pin=U2-14
+Added Pin To Net: NetName=NetC23_2 Pin=U2-27
+Added Pin To Net: NetName=RENG Pin=U2-28
+Added Pin To Net: NetName=NetC23_2 Pin=U2-33
+Added Pin To Net: NetName=NetC23_2 Pin=U3-7
+Added Pin To Net: NetName=NetC23_2 Pin=U4-1
+Change Net Name : Old Net Name=NetC23_2 New Net Name=GND
